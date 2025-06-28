@@ -7,4 +7,4 @@ I'm a passionate programmer and mobile app developer, focused on building clean 
 [https://github.com/pannaga-rj](https://github.com/pannaga-rj)
 
 ### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/pannaga-r-bhat-ba8bb6289])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pannaga-r-bhat-ba8bb6289)
